@@ -1,1 +1,1 @@
-# fsst-ascii-game-Public
+# fsst-ascii-game
